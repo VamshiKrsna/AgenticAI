@@ -1,3 +1,4 @@
 .python-version
 pyproject.toml
 .env
+uv.lock
